@@ -7,7 +7,7 @@
   I enjoyworking out:muscle: and bowling:bowling:.</br>
   I hope to be a Backend developer.</br></br>
   
-  <h4> :arrow_down::arrow_down:This is my algorithm  level. :arrow_down::arrow_down:</h4>
+  <h4> :arrow_down::arrow_down:This is my algorithm solving ability level. :arrow_down::arrow_down:</h4>
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdl5001)](https://solved.ac/kdl5001)
 
