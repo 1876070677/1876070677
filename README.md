@@ -39,11 +39,4 @@
 
   <img src="https://img.shields.io/badge/Tech blog-9999FF?style=flat-square&logo=Github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gmail-FF5A5F?style=flat-square&logo=Gmail&logoColor=white"/> </br></br>
-
-  <h3> 1 Day 1 Commit Challenge :date:</h3>
-  <p align="center">
-  <a href="https://github.com/devxb/CommitCombo">
-    <img src="http://commitcombo.com/theme/norank?user=1876070677&theme=Depths-mini&v=2"/>
-  </a>
-</p>
 </div>
