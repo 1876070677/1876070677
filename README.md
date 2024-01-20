@@ -40,7 +40,7 @@
 <a href="https://blog.shbox.kr">
 <img alt="Static Badge" src="https://img.shields.io/badge/Blog-white?style=flat&label=Portfolio&labelColor=grey&color=blue">
 </a>
-<a href="https://velog.io/@1876060677/posts"
+<a href="https://velog.io/@1876060677/posts">
   <img src="https://img.shields.io/badge/Tech blog-9999FF?style=flat-square&logo=Github&logoColor=white"/>
 </a>
 
