@@ -37,8 +37,9 @@
 |컴퓨터공학과(석사)|소프트웨어 공학 연구실|2023|~ing|
 
 <h3> My Portfolio Blog</h3>
+<a href="https://blog.shbox.kr">
 <img alt="Static Badge" src="https://img.shields.io/badge/Blog-white?style=flat&label=Portfolio&labelColor=grey&color=blue">
-[![Portfolio_blog](https://blog.shbox.kr)]
+</a>
 
   <h3> Contact 💬</h3>
 
