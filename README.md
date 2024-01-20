@@ -31,11 +31,14 @@
 |:---:|:---:|:---:|:---:|
 |종합설계프로젝트 SleepDog팀 참가|안드로이드 개발|2020|Finished|
 |IT중앙동아리 COMA 활동|파이썬 스터디|2021|Finished|
-|Software Engineering Lab 학부생 인턴 활동|MicroService Study|2021|~ING|
+|Software Engineering Lab 학부생 인턴 활동|MicroService Study|2021|FINISHED|
 |Social Innovation Fair 참가|백엔드 개발자|2021|Finished(장려상)|
 |종합설계프로젝트 집단지성팀 참가|백엔드 개발자|2021|Finished|
+|컴퓨터공학과(석사)|소프트웨어 공학 연구실|2023|~ing|
 
-<h3> [My Portfolio Blog](https://blog.shbox.kr)</h3>
+<h3> My Portfolio Blog</h3>
+<img alt="Static Badge" src="https://img.shields.io/badge/Blog-white?style=flat&label=Portfolio&labelColor=grey&color=blue">
+[![Portfolio_blog](https://blog.shbox.kr)]
 
   <h3> Contact 💬</h3>
 
