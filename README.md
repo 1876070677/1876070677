@@ -35,6 +35,8 @@
 |Social Innovation Fair 참가|백엔드 개발자|2021|Finished(장려상)|
 |종합설계프로젝트 집단지성팀 참가|백엔드 개발자|2021|Finished|
 
+<h3> [My Portfolio Blog](https://blog.shbox.kr)</h3>
+
   <h3> Contact 💬</h3>
 
   <img src="https://img.shields.io/badge/Tech blog-9999FF?style=flat-square&logo=Github&logoColor=white"/>
