@@ -1,11 +1,17 @@
-<div align="center">
+<div align="left">
 
 <p align="left">
   <h2> :mag: I'm,,,, :mag:</h2>
-  :wave: Hi~ I'm a student in the Department of Computer Science Information Engineering. :school:</br>
-  I usually use Java to develop. But now I'm studying node.js.</br></br>
-  I enjoyworking out:muscle: and bowling:bowling:.</br>
-  I hope to be a Backend developer.</br></br>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1876070677&count_bg=%234D99CE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></br>
+  :wave: Hi~ I received a B.S. degree in 2023 from the School of Computer Science and Information Engineering </br>
+  in the Catholic University of Korea. :school:</br>
+  I am currently a M.S. student at the School of Computer Science and Information Engineering of the Catholic University of Korea. </br>
+  My current research interests include software engineering and web engineering. </br>
+  I usually use Java & Spring for development. In my publications, i also analyse java open source web apps.</br></br>
+  I can deploy my web apps on Docker. The deployed web apps can be found on the following websites.</br>
+  1) My portfolio website: https://blog.shbox.kr (Currently not used) </br>
+  2) Trinity Parser: https://parser.dobby.kr (This website shows some of the parsed information from our university's student management system) </br></br>
+  I hope to be a backend developer or devops or software engineer</br></br>
   
   <h4> :arrow_down::arrow_down:This is my algorithm solving ability level. :arrow_down::arrow_down:</h4>
   
@@ -14,15 +20,13 @@
 </p>
 
   <h3> :punch: My Skills,,, :punch:</h3>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white"/>
   </br></br>
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>
  </br></br>
  
  <h3> :paperclip: Activity,,, :paperclip:</h3>
@@ -36,14 +40,11 @@
 |종합설계프로젝트 집단지성팀 참가|백엔드 개발자|2021|Finished|
 |컴퓨터공학과(석사)|소프트웨어 공학 연구실|2023|~ing|
 
-<h3> My Portfolio Blog</h3>
-<a href="https://blog.shbox.kr">
-<img alt="Static Badge" src="https://img.shields.io/badge/Blog-white?style=flat&label=Portfolio&labelColor=grey&color=blue">
-</a>
+<h3> My Blog</h3>
 <a href="https://velog.io/@1876060677/posts">
-  <img src="https://img.shields.io/badge/Tech blog-9999FF?style=flat-square&logo=Github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
 </a>
-
-  <h3> Contact 💬</h3>
-  <img src="https://img.shields.io/badge/Gmail-FF5A5F?style=flat-square&logo=Gmail&logoColor=white"/> </br></br>
+<a href="https://se](https://se-dobby.tistory.com/">
+  <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
+</a>
 </div>
