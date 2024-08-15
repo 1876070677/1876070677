@@ -12,6 +12,8 @@
   1) My portfolio website: https://blog.shbox.kr (Currently not used) </br>
   2) Trinity Parser: https://parser.dobby.kr (This website shows some of the parsed information from our university's student management system) </br></br>
   I hope to be a backend developer or devops or software engineer</br></br>
+  For more information, please visit the following website.</br>
+  https://pdf.dobby.kr
   
   <h4> :arrow_down::arrow_down:This is my algorithm solving ability level. :arrow_down::arrow_down:</h4>
   
