@@ -8,7 +8,7 @@
   I am currently a M.S. student at the School of Computer Science and Information Engineering of the Catholic University of Korea. </br>
   My current research interests include software engineering and web engineering. </br>
   I usually use Java & Spring for development. In my publications, i also analyse java open source web apps.</br></br>
-  I can deploy my web apps on Docker. The deployed web apps can be found on the following websites.</br>
+  I've deployed a few web apps on Docker. The deployed web apps can be found on the following websites.</br>
   1) My portfolio website: https://blog.shbox.kr (Currently not used) </br>
   2) Trinity Parser: https://parser.dobby.kr (This website shows some of the parsed information from our university's student management system) </br></br>
   I hope to be a backend developer or devops or software engineer</br></br>
@@ -46,7 +46,7 @@
 <a href="https://velog.io/@1876060677/posts">
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
 </a>
-<a href="https://se](https://se-dobby.tistory.com/">
+<a href="https://se-dobby.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
 </a>
 </div>
