@@ -6,8 +6,8 @@
   :wave: Hi~ I received a B.S. degree in 2023 from the School of Computer Science and Information Engineering </br>
   in the Catholic University of Korea. :school:</br>
   I am currently a M.S. student at the School of Computer Science and Information Engineering of the Catholic University of Korea. </br>
-  My current research interests include software engineering and web engineering. </br>
-  I usually use Java & Spring for development. In my publications, i also analyse java open source web apps.</br></br>
+  My research topic is identification of microservices.</br>
+  I usually use Java & Spring for development. In my publications, I also analyse java open-source web apps.</br></br>
   I've deployed a few web apps on Docker. The deployed web apps can be found on the following websites.</br>
   1) My portfolio website: https://blog.shbox.kr (Currently not used) </br>
   2) Trinity Parser: https://parser.dobby.kr (This website shows some of the parsed information from our university's student management system) </br></br>
@@ -35,12 +35,14 @@
  
 |Name|Activity|Date|Status|
 |:---:|:---:|:---:|:---:|
-|종합설계프로젝트 SleepDog팀 참가|안드로이드 개발|2020|Finished|
-|IT중앙동아리 COMA 활동|파이썬 스터디|2021|Finished|
-|Software Engineering Lab 학부생 인턴 활동|MicroService Study|2021|FINISHED|
-|Social Innovation Fair 참가|백엔드 개발자|2021|Finished(장려상)|
-|종합설계프로젝트 집단지성팀 참가|백엔드 개발자|2021|Finished|
-|컴퓨터공학과(석사)|소프트웨어 공학 연구실|2023|~ing|
+|종합설계프로젝트 SleepDog팀 참가|안드로이드 개발|2020|FINISHED|
+|IT중앙동아리 COMA 활동|파이썬 스터디|2021|FINISHED|
+|Software Engineering Lab.|학부 연구생|2021~2023|FINISHED|
+|Social Innovation Fair 참가|백엔드 개발자|2021|FINISHED(장려상)|
+|종합설계프로젝트 집단지성팀 참가|백엔드 개발자|2021|FINISHED|
+|컴퓨터공학과(석사)|소프트웨어 공학 연구실|2023~2025|FINISHED|
+|Trinity Parser|API 개발, 프로젝트 기획, 웹 앱 배포|2024|FINISHED|
+|Legacy to Microservices|프로젝트 기획, Account & Order 서비스 개발|2025|~ING|
 
 <h3> My Blog</h3>
 <a href="https://velog.io/@1876060677/posts">
