@@ -40,7 +40,7 @@
 |Software Engineering Lab.|학부 연구생|2021~2023|FINISHED|
 |Social Innovation Fair 참가|백엔드 개발자|2021|FINISHED(장려상)|
 |종합설계프로젝트 집단지성팀 참가|백엔드 개발자|2021|FINISHED|
-|컴퓨터공학과(석사)|소프트웨어 공학 연구실|2023~2025|FINISHED|
+|Software Engineering Lab.|컴퓨터공학과(석사)|2023~2025|FINISHED|
 |Trinity Parser|API 개발, 프로젝트 기획, 웹 앱 배포|2024|FINISHED|
 |Legacy to Microservices|프로젝트 기획, Account & Order 서비스 개발|2025|~ING|
 
