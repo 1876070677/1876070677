@@ -7,7 +7,7 @@
   In addition to, I received an M.S. degree in Computer Engineering from The Catholic University of Korea in 2025. 🎓</br></br>
   I conducted research on microservices identification for a total of four years and proposed six methodologies. </br>
   For this identification, I utilized both static and dynamic analyses on five open-source web applications (JPetStore, JPetStore-6, PetClinic, ShoppingApp, DayTrader) </br>
-  I then modeled the web application based on analysis results and partitioned this model using machine learning or deep learning techniques to identify microservices. </br></br>
+  Based on the analysis results, I then modeled the web application as a graph or a similarity matrix and partitioned this model using machine learning or deep learning techniques to identify microservices. </br></br>
   
 |Title|Role|Journal|Publication date|Journal index|
 |:---:|:---:|:---:|:---:|:--:|
