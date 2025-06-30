@@ -2,7 +2,7 @@
 
 <p align="left">
   <h2> :mag: I'm,,,, :mag:</h2>
-  Wellcome, dear visitors!! :wave: </br>
+  Welcome, dear visitors!! :wave: </br>
   I received a B.S. degree in 2023 and M.S. degree in 2025 from the School of Computer Science and Information Engineering at the Catholic University of Korea. 🎓</br>
   I am currently a research engineer at IDIS (Intelligent Digital Integrated Security). </br></br>
   I conducted research on microservices identification for a total of four years and proposed six methodologies. </br>
@@ -17,6 +17,7 @@
 |Microservice Identification by Partitioning Monolithic Web Applications Based on Use-Cases|First author|JICCE|2023.12|SCOPUS|
 |모노리식 애플리케이션을 마이크로서비스로 전환하기 위한 구조와 의미 기반의 방법론|Master's thesis||2025.02||
 |Migrating Monolithic Web Applications to Microservice Architectures Considering Dependencies on Databases and Views|First author|ACM SAC '25|2025.03|SCI|
+|Migrating Monolithic Web Applications to Microservice Architectures Leveraging Use Case and Component Similarity|Second author|JICCE|2025.06|SCOPUS|
 
   
   </br>I want to be a backend developer.</br>
