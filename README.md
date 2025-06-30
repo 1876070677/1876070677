@@ -2,9 +2,9 @@
 
 <p align="left">
   <h2> :mag: I'm,,,, :mag:</h2>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F1876070677&count_bg=%234D99CE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></br>
-  Hi~ :wave:  I received a B.S. degree in the School of Computer Science and Information Engineering from The Catholic University of Korea in 2023. :school:</br>
-  In addition to, I received an M.S. degree in Computer Engineering from The Catholic University of Korea in 2025. 🎓</br></br>
+  Wellcome, dear visitors!! :wave: </br>
+  I received a B.S. degree in 2023 and M.S. degree in 2025 from the School of Computer Science and Information Engineering at the Catholic University of Korea. 🎓</br>
+  I am currently a research engineer at IDIS (Intelligent Digital Integrated Security). </br></br>
   I conducted research on microservices identification for a total of four years and proposed six methodologies. </br>
   For this identification, I utilized both static and dynamic analyses on five open-source web applications (JPetStore, JPetStore-6, PetClinic, ShoppingApp, DayTrader) </br>
   Based on the analysis results, I then modeled the web application as a graph or a similarity matrix and partitioned this model using machine learning or deep learning techniques to identify microservices. </br></br>
