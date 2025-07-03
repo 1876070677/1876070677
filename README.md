@@ -64,4 +64,15 @@
 <a href="https://se-dobby.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/>
 </a>
+
+<br><br>
+<div align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=1876070677&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/1876070677"
+    width="600"
+    height="300"
+  />
+  </a>
+</div>
 </div>
